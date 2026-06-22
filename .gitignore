@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Processed databases and redundant files
+*.db
+*.sqlite3
+data/processed/*
+
+# Environment variables
+.env
+.venv/
