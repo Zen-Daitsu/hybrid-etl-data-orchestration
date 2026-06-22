@@ -1,0 +1,1343 @@
+[
+    {
+        "Manege": "Air_0",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2002,
+        "Vitesse": 46.6
+    },
+    {
+        "Manege": "Boomerang_0",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 1993,
+        "Vitesse": 47.0
+    },
+    {
+        "Manege": "Cobra_0",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2006,
+        "Vitesse": 31.1
+    },
+    {
+        "Manege": "Air_1",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2003,
+        "Vitesse": 47.1
+    },
+    {
+        "Manege": "Boomerang_1",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 1994,
+        "Vitesse": 47.5
+    },
+    {
+        "Manege": "Cobra_1",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2007,
+        "Vitesse": 31.6
+    },
+    {
+        "Manege": "Air_2",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2004,
+        "Vitesse": 47.6
+    },
+    {
+        "Manege": "Boomerang_2",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 1995,
+        "Vitesse": 48.0
+    },
+    {
+        "Manege": "Cobra_2",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2008,
+        "Vitesse": 32.1
+    },
+    {
+        "Manege": "Air_3",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2005,
+        "Vitesse": 48.1
+    },
+    {
+        "Manege": "Boomerang_3",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 1996,
+        "Vitesse": 48.5
+    },
+    {
+        "Manege": "Cobra_3",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2009,
+        "Vitesse": 32.6
+    },
+    {
+        "Manege": "Air_4",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2006,
+        "Vitesse": 48.6
+    },
+    {
+        "Manege": "Boomerang_4",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 1997,
+        "Vitesse": 49.0
+    },
+    {
+        "Manege": "Cobra_4",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2010,
+        "Vitesse": 33.1
+    },
+    {
+        "Manege": "Air_5",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2007,
+        "Vitesse": 49.1
+    },
+    {
+        "Manege": "Boomerang_5",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 1998,
+        "Vitesse": 49.5
+    },
+    {
+        "Manege": "Cobra_5",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2011,
+        "Vitesse": 33.6
+    },
+    {
+        "Manege": "Air_6",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2008,
+        "Vitesse": 49.6
+    },
+    {
+        "Manege": "Boomerang_6",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 1999,
+        "Vitesse": 50.0
+    },
+    {
+        "Manege": "Cobra_6",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2012,
+        "Vitesse": 34.1
+    },
+    {
+        "Manege": "Air_7",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2009,
+        "Vitesse": 50.1
+    },
+    {
+        "Manege": "Boomerang_7",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2000,
+        "Vitesse": 50.5
+    },
+    {
+        "Manege": "Cobra_7",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2013,
+        "Vitesse": 34.6
+    },
+    {
+        "Manege": "Air_8",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2010,
+        "Vitesse": 50.6
+    },
+    {
+        "Manege": "Boomerang_8",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2001,
+        "Vitesse": 51.0
+    },
+    {
+        "Manege": "Cobra_8",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2014,
+        "Vitesse": 35.1
+    },
+    {
+        "Manege": "Air_9",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2011,
+        "Vitesse": 51.1
+    },
+    {
+        "Manege": "Boomerang_9",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2002,
+        "Vitesse": 51.5
+    },
+    {
+        "Manege": "Cobra_9",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2015,
+        "Vitesse": 35.6
+    },
+    {
+        "Manege": "Air_10",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2012,
+        "Vitesse": 51.6
+    },
+    {
+        "Manege": "Boomerang_10",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2003,
+        "Vitesse": 52.0
+    },
+    {
+        "Manege": "Cobra_10",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2016,
+        "Vitesse": 36.1
+    },
+    {
+        "Manege": "Air_11",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2013,
+        "Vitesse": 52.1
+    },
+    {
+        "Manege": "Boomerang_11",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2004,
+        "Vitesse": 52.5
+    },
+    {
+        "Manege": "Cobra_11",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2017,
+        "Vitesse": 36.6
+    },
+    {
+        "Manege": "Air_12",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2014,
+        "Vitesse": 52.6
+    },
+    {
+        "Manege": "Boomerang_12",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2005,
+        "Vitesse": 53.0
+    },
+    {
+        "Manege": "Cobra_12",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2018,
+        "Vitesse": 37.1
+    },
+    {
+        "Manege": "Air_13",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2015,
+        "Vitesse": 53.1
+    },
+    {
+        "Manege": "Boomerang_13",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2006,
+        "Vitesse": 53.5
+    },
+    {
+        "Manege": "Cobra_13",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2019,
+        "Vitesse": 37.6
+    },
+    {
+        "Manege": "Air_14",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2016,
+        "Vitesse": 53.6
+    },
+    {
+        "Manege": "Boomerang_14",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2007,
+        "Vitesse": 54.0
+    },
+    {
+        "Manege": "Cobra_14",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2020,
+        "Vitesse": 38.1
+    },
+    {
+        "Manege": "Air_15",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2017,
+        "Vitesse": 54.1
+    },
+    {
+        "Manege": "Boomerang_15",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2008,
+        "Vitesse": 54.5
+    },
+    {
+        "Manege": "Cobra_15",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2021,
+        "Vitesse": 38.6
+    },
+    {
+        "Manege": "Air_16",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2018,
+        "Vitesse": 54.6
+    },
+    {
+        "Manege": "Boomerang_16",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2009,
+        "Vitesse": 55.0
+    },
+    {
+        "Manege": "Air_17",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2019,
+        "Vitesse": 55.1
+    },
+    {
+        "Manege": "Boomerang_17",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2010,
+        "Vitesse": 55.5
+    },
+    {
+        "Manege": "Cobra_17",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2023,
+        "Vitesse": 39.6
+    },
+    {
+        "Manege": "Air_18",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2020,
+        "Vitesse": 55.6
+    },
+    {
+        "Manege": "Boomerang_18",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2011,
+        "Vitesse": 56.0
+    },
+    {
+        "Manege": "Cobra_18",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2024,
+        "Vitesse": 40.1
+    },
+    {
+        "Manege": "Air_19",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2021,
+        "Vitesse": 56.1
+    },
+    {
+        "Manege": "Boomerang_19",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2012,
+        "Vitesse": 56.5
+    },
+    {
+        "Manege": "Cobra_19",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2025,
+        "Vitesse": 40.6
+    },
+    {
+        "Manege": "Air_20",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2022,
+        "Vitesse": 56.6
+    },
+    {
+        "Manege": "Boomerang_20",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2013,
+        "Vitesse": 57.0
+    },
+    {
+        "Manege": "Cobra_20",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2026,
+        "Vitesse": 41.1
+    },
+    {
+        "Manege": "Air_21",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2023,
+        "Vitesse": 57.1
+    },
+    {
+        "Manege": "Boomerang_21",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2014,
+        "Vitesse": 57.5
+    },
+    {
+        "Manege": "Cobra_21",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2027,
+        "Vitesse": 41.6
+    },
+    {
+        "Manege": "Air_22",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2024,
+        "Vitesse": 57.6
+    },
+    {
+        "Manege": "Boomerang_22",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2015,
+        "Vitesse": 58.0
+    },
+    {
+        "Manege": "Cobra_22",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2028,
+        "Vitesse": 42.1
+    },
+    {
+        "Manege": "Air_23",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2025,
+        "Vitesse": 58.1
+    },
+    {
+        "Manege": "Boomerang_23",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2016,
+        "Vitesse": 58.5
+    },
+    {
+        "Manege": "Cobra_23",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2029,
+        "Vitesse": 42.6
+    },
+    {
+        "Manege": "Air_24",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2026,
+        "Vitesse": 58.6
+    },
+    {
+        "Manege": "Boomerang_24",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2017,
+        "Vitesse": 59.0
+    },
+    {
+        "Manege": "Cobra_24",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2030,
+        "Vitesse": 43.1
+    },
+    {
+        "Manege": "Air_25",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2027,
+        "Vitesse": 59.1
+    },
+    {
+        "Manege": "Boomerang_25",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2018,
+        "Vitesse": 59.5
+    },
+    {
+        "Manege": "Cobra_25",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2031,
+        "Vitesse": 43.6
+    },
+    {
+        "Manege": "Air_26",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2028,
+        "Vitesse": 59.6
+    },
+    {
+        "Manege": "Boomerang_26",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2019,
+        "Vitesse": 60.0
+    },
+    {
+        "Manege": "Cobra_26",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2032,
+        "Vitesse": 44.1
+    },
+    {
+        "Manege": "Air_27",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2029,
+        "Vitesse": 60.1
+    },
+    {
+        "Manege": "Boomerang_27",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2020,
+        "Vitesse": 60.5
+    },
+    {
+        "Manege": "Cobra_27",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2033,
+        "Vitesse": 44.6
+    },
+    {
+        "Manege": "Air_28",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2030,
+        "Vitesse": 60.6
+    },
+    {
+        "Manege": "Boomerang_28",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2021,
+        "Vitesse": 61.0
+    },
+    {
+        "Manege": "Cobra_28",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2034,
+        "Vitesse": 45.1
+    },
+    {
+        "Manege": "Air_29",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2031,
+        "Vitesse": 61.1
+    },
+    {
+        "Manege": "Boomerang_29",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2022,
+        "Vitesse": 61.5
+    },
+    {
+        "Manege": "Cobra_29",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2035,
+        "Vitesse": 45.6
+    },
+    {
+        "Manege": "Air_30",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2032,
+        "Vitesse": 61.6
+    },
+    {
+        "Manege": "Boomerang_30",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2023,
+        "Vitesse": 62.0
+    },
+    {
+        "Manege": "Cobra_30",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2036,
+        "Vitesse": 46.1
+    },
+    {
+        "Manege": "Air_31",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2033,
+        "Vitesse": 62.1
+    },
+    {
+        "Manege": "Boomerang_31",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2024,
+        "Vitesse": 62.5
+    },
+    {
+        "Manege": "Cobra_31",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2037,
+        "Vitesse": 46.6
+    },
+    {
+        "Manege": "Air_32",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2034,
+        "Vitesse": 62.6
+    },
+    {
+        "Manege": "Boomerang_32",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2025,
+        "Vitesse": 63.0
+    },
+    {
+        "Manege": "Cobra_32",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2038,
+        "Vitesse": 47.1
+    },
+    {
+        "Manege": "Air_33",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2035,
+        "Vitesse": 63.1
+    },
+    {
+        "Manege": "Boomerang_33",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2026,
+        "Vitesse": 63.5
+    },
+    {
+        "Manege": "Cobra_33",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2039,
+        "Vitesse": 47.6
+    },
+    {
+        "Manege": "Air_34",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2036,
+        "Vitesse": 63.6
+    },
+    {
+        "Manege": "Boomerang_34",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2027,
+        "Vitesse": 64.0
+    },
+    {
+        "Manege": "Cobra_34",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2040,
+        "Vitesse": 48.1
+    },
+    {
+        "Manege": "Air_35",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2037,
+        "Vitesse": 64.1
+    },
+    {
+        "Manege": "Boomerang_35",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2028,
+        "Vitesse": 64.5
+    },
+    {
+        "Manege": "Cobra_35",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2041,
+        "Vitesse": 48.6
+    },
+    {
+        "Manege": "Air_36",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2038,
+        "Vitesse": 64.6
+    },
+    {
+        "Manege": "Boomerang_36",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2029,
+        "Vitesse": 65.0
+    },
+    {
+        "Manege": "Cobra_36",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2042,
+        "Vitesse": 49.1
+    },
+    {
+        "Manege": "Air_37",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2039,
+        "Vitesse": 65.1
+    },
+    {
+        "Manege": "Boomerang_37",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2030,
+        "Vitesse": 65.5
+    },
+    {
+        "Manege": "Cobra_37",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2043,
+        "Vitesse": 49.6
+    },
+    {
+        "Manege": "Air_38",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2040,
+        "Vitesse": 65.6
+    },
+    {
+        "Manege": "Boomerang_38",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2031,
+        "Vitesse": 66.0
+    },
+    {
+        "Manege": "Cobra_38",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2044,
+        "Vitesse": 50.1
+    },
+    {
+        "Manege": "Air_39",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2041,
+        "Vitesse": 66.1
+    },
+    {
+        "Manege": "Boomerang_39",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2032,
+        "Vitesse": 66.5
+    },
+    {
+        "Manege": "Cobra_39",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2045,
+        "Vitesse": 50.6
+    },
+    {
+        "Manege": "Air_40",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2042,
+        "Vitesse": 66.6
+    },
+    {
+        "Manege": "Boomerang_40",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2033,
+        "Vitesse": 67.0
+    },
+    {
+        "Manege": "Cobra_40",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2046,
+        "Vitesse": 51.1
+    },
+    {
+        "Manege": "Air_41",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2043,
+        "Vitesse": 67.1
+    },
+    {
+        "Manege": "Boomerang_41",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2034,
+        "Vitesse": 67.5
+    },
+    {
+        "Manege": "Cobra_41",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2047,
+        "Vitesse": 51.6
+    },
+    {
+        "Manege": "Air_42",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2044,
+        "Vitesse": 67.6
+    },
+    {
+        "Manege": "Boomerang_42",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2035,
+        "Vitesse": 68.0
+    },
+    {
+        "Manege": "Cobra_42",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2048,
+        "Vitesse": 52.1
+    },
+    {
+        "Manege": "Air_43",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2045,
+        "Vitesse": 68.1
+    },
+    {
+        "Manege": "Boomerang_43",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2036,
+        "Vitesse": 68.5
+    },
+    {
+        "Manege": "Cobra_43",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2049,
+        "Vitesse": 52.6
+    },
+    {
+        "Manege": "Air_44",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2046,
+        "Vitesse": 68.6
+    },
+    {
+        "Manege": "Boomerang_44",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2037,
+        "Vitesse": 69.0
+    },
+    {
+        "Manege": "Cobra_44",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2050,
+        "Vitesse": 53.1
+    },
+    {
+        "Manege": "Air_45",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2047,
+        "Vitesse": 69.1
+    },
+    {
+        "Manege": "Boomerang_45",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2038,
+        "Vitesse": 69.5
+    },
+    {
+        "Manege": "Cobra_45",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2051,
+        "Vitesse": 53.6
+    },
+    {
+        "Manege": "Air_46",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2048,
+        "Vitesse": 69.6
+    },
+    {
+        "Manege": "Boomerang_46",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2039,
+        "Vitesse": 70.0
+    },
+    {
+        "Manege": "Cobra_46",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2052,
+        "Vitesse": 54.1
+    },
+    {
+        "Manege": "Air_47",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2049,
+        "Vitesse": 70.1
+    },
+    {
+        "Manege": "Boomerang_47",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2040,
+        "Vitesse": 70.5
+    },
+    {
+        "Manege": "Cobra_47",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2053,
+        "Vitesse": 54.6
+    },
+    {
+        "Manege": "Air_48",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2050,
+        "Vitesse": 70.6
+    },
+    {
+        "Manege": "Boomerang_48",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2041,
+        "Vitesse": 71.0
+    },
+    {
+        "Manege": "Cobra_48",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2054,
+        "Vitesse": 55.1
+    },
+    {
+        "Manege": "Air_49",
+        "Parc": "Talpon Park",
+        "Type": "Acier",
+        "Design": "Volant",
+        "Statut": "En operation",
+        "Ouvert": 2051,
+        "Vitesse": 71.1
+    },
+    {
+        "Manege": "Boomerang_49",
+        "Parc": "Family Theme Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2042,
+        "Vitesse": 71.5
+    },
+    {
+        "Manege": "Cobra_49",
+        "Parc": "Paultons Park",
+        "Type": "Acier",
+        "Design": "Assis",
+        "Statut": "En operation",
+        "Ouvert": 2055,
+        "Vitesse": 55.6
+    }
+]
